@@ -96,6 +96,8 @@ class Main extends Sprite
 	{
 		super();
 
+		addChild(new FlxGame(0, 0, Startup, 1, 144, 144, true));
+
 		openfl.Lib.current.stage.application.onExit.add(function(code)
 		{
 			AudioStreamThing.destroyEverything();
@@ -168,9 +170,6 @@ class Main extends Sprite
 		characterColors["pump"] = 0xd57e00;
 		characterColors["senpai"] = 0xfac146;
 		characterColors["tankman"] = 0x383838;
-        	characterColors["LIMEGREENWEEKINVSIMPOSTOR"] = 0x32CD32; 
-           	characterColors["squid"] = 0x50ef3a;   
-        	characterColors["squidboyv1"] = 0x50ef3a;
 		charToSong["prisma"] = "Fresnel";
 		charToSong["prisma2"] = "SiO2";
 
