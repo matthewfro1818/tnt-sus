@@ -107,7 +107,13 @@ class FreeplayState extends MusicBeatState
 		addSong("Bopeebo", 1, "dad", 0x010);
 		addSong("Roses", 1, "senpai", 0x010);
 		addSong("Ugh", 1, "tankman", 0x010);
-
+		addSong("Lemon-Lime", 1, "LIMEGREENWEEKINVSIMPOSTOR");
+		addSong("Chlorophyll", 1, "LIMEGREENWEEKINVSIMPOSTOR");
+		addSong("Inflorescence", 1, "LIMEGREENWEEKINVSIMPOSTOR");
+		addSong("Stargazer", 1, "LIMEGREENWEEKINVSIMPOSTOR");
+		addSong("Lime-Lemon", 1, "squidv1");
+		addSong("Serialized", 1, "squidv1");
+		addSong("Inflorescence-Hotfix", 1, "LIMEGREENWEEKINVSIMPOSTOR");
 		// LOAD CHARACTERS
 
 		// var backdrop = new FlxBackdrop(Paths.image('tile2'));
