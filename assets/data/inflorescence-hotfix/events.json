@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				9491.52542372881,
+				[
+					[
+						"Camera Follow Pos",
+						"-300",
+						"700"
+					]
+				]
+			],
+			[
+				10508.4745762712,
+				[
+					[
+						"flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"squid"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
