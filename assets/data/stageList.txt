@@ -9,3 +9,6 @@ atlantaStage
 tankStage
 prismaStage
 prismaStage2
+o2
+o2hotfix
+serialized
